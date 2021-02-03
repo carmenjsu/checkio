@@ -1,0 +1,2 @@
+Exercise on checkio.org
+
